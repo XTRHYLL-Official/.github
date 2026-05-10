@@ -9,14 +9,6 @@
       Our mission is to transform complex challenges across the digital and physical worlds into reliable, intelligent, and human-centered solutions.
     </p>
   </div><br>
-  <div align="center">
-    <p align="left">
-      E C O S Y S T E M
-    </p>
-    <p align="center">
-     <img width="500" height="500" src="https://github.com/user-attachments/assets/267416f0-2772-4cd3-b413-2fca1dec87e9" />
-    </p>
-  </div>
 </body>
 <footer align="center">
    <img width="920" height="70" src="https://github.com/user-attachments/assets/54846be5-2c17-4fca-9081-e154a74f2a37" />
